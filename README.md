@@ -1,7 +1,15 @@
-# My-CV
+# 💼 HTML + CSS CV Template
 
-This is my first CV written in html + css 
+This is my **first CV** built using **HTML** and **CSS**.
 
-I posted this because for me, it was very hard to do it on my own, only using a model on google. 
+I created and shared it because I found it quite challenging to make from scratch — using only a simple template I found on Google as inspiration.
 
-This CV template can help you make you're own CV by only changing the code in index.html with you're own information.
+---
+
+## ✏️ How to Use
+
+You can easily create your own CV by editing the `index.html` file and replacing the existing content with **your own information**.
+
+---
+
+
